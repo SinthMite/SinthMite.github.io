@@ -1,0 +1,39 @@
+main{
+    font-family: sans-serif;
+}
+#banner{
+    background-image: url('pattern.jpeg');
+    height: 230px;
+    margin-bottom: 75px;
+}
+#banner_heading{
+    color: #fff29a;
+    font-size: 100px;
+    text-align: center;
+}
+
+#first {
+    background-color: rgb(0, 255, 136);
+    color: white;
+    font-size: 21px;
+}
+
+#second{
+    background-color: salmon;
+    color: white;
+    font-size: 21px;
+
+}
+
+#third{
+    background-color: lightblue;
+    color: white;
+    font-size: 21px;
+
+}
+.highlighted{
+    color: blue;
+}
+p{
+    font-size: 17px;
+}
